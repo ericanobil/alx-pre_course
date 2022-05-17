@@ -1,3 +1,3 @@
 My first readme
 
-what a great way to start off thsi coding course
+What a great way to start off this software engineering job.
